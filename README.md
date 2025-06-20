@@ -1,6 +1,6 @@
 ![](./banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=println!(%22Hi+I'm+Murphy+Locke%22);println!(%22Systems+Engineer%22);println!(%22Open-source,+open+mind.%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=println!(%22Hi+I'm+Euchey%22);println!(%22Senior+Systems+Developer%22);println!(%22Open-source,+open+mind.%22))](https://git.io/typing-svg)
 
 Technical Skills 💻
 I consider myself to be pretty good at the following technologies.
