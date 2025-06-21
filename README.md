@@ -1,4 +1,4 @@
-![](./banner.svg)
+![](./github_banner_uncial.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=println!(%22Hi+I'm+Euchey%22);println!(%22Senior+Systems+Developer%22);println!(%22Open-source,+open+mind.%22))](https://git.io/typing-svg)
 
