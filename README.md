@@ -1,6 +1,6 @@
 ![](./banner_large.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=println!(%22Hi+I'm+Euchey%22);println!(%22Senior+Systems+Developer%22);println!(%22Open-source,+open+mind.%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=fmt.Println(%22Hi+I'm+Euchey%22);fmt.Println(%22Senior+Systems+Developer%22);fmt.Println(%22Open-source,+open+mind.%22))](https://git.io/typing-svg)
 
 Technical Skills 💻
 I consider myself to be pretty good at the following technologies.
@@ -11,7 +11,6 @@ I consider myself to be pretty good at the following technologies.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Gopher](https://img.shields.io/badge/gopher-00ADD8?style=for-the-badge&logo=go&logoColor=white&label=go)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 [![Rust](https://img.shields.io/badge/rust-%23EDA584.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
