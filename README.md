@@ -11,6 +11,7 @@ I consider myself to be pretty good at the following technologies.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 [![Rust](https://img.shields.io/badge/rust-%23EDA584.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
